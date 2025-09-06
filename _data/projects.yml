@@ -1,11 +1,11 @@
 - name: CHIME/FRB
   image: /assets/images/chime_night.jpg
   link: https://www.chime-frb.ca/
-  description: I have been part of the CHIME/FRB Collaboration almost since first light. Currently I am the CHIME/FRB Project Coordinator and lead important portions of the live processing pipeline such as the RFI mitigation.
+  description: I have been part of the CHIME/FRB Collaboration almost since first light. Currently, I am the CHIME/FRB Project Coordinator and lead essential portions of the live processing pipeline, such as the RFI mitigation.
 - name: CHIME/FRB Single Pulse Pulsar Survey
   link: https://www.chime-frb.ca/galactic
   image: /assets/images/magnetar.jpg
-  description: I am the lead of the CHIME/FRB single pulse pulsar survey and I also lead the Galactic Working Group within the CHIME/FRB project. This it the largest single pulse pulsar survey to date and has discovered over 100 pulsars. Our survey runs 24/7 in real time. For a conventional telescope, like the GBT to reach our covereage, the GBT would need to survey for 700,000 hours a month!
+  description: I am the lead of the CHIME/FRB single pulse pulsar survey, and I also lead the Galactic Working Group within the CHIME/FRB project. This is the largest single pulse pulsar survey to date and has discovered over 100 pulsars. Our survey runs 24/7 in real time. For a conventional telescope, the GBT would need to survey for 700,000 hours a month to complete a similar survey!
 - name: CHIME/Pulsar
   link: https://arxiv.org/abs/2008.05681
   image: /assets/images/pulsars.jpg

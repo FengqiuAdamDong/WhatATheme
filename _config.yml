@@ -37,7 +37,8 @@ about-image: /assets/images/casca2024_zoom.png
 
 author-image: /assets/images/Headshot.png
   # 60 Words About the Author
-author-about: I am an astrophysicist who works on the Canadian Hydrogen Intensity Mapping Experiment. My research spans many fields across compact objects. I study an array of compact objects such as Long Period Transients, Pulsars, and Fast Radio Bursts. I lead the largest single pulse pulsar survey to date. Furthermore, I lead the pulsar working group with the CHIME VLBI outriggers. CHIME/LPT working group...
+author-about:  I am an astrophysicist who works on the Canadian Hydrogen Intensity Mapping Experiment. My research spans many fields across compact objects. Go to my research or project tab to find out more! Currently, I lead the single pulse pulsar survey with CHIME/FRB, and we've already discovered 111 new pulsars. I am also paving the way for a Long Period Transient and pulsar VLBI working group within CHIME. Please reach out if you would like to collaborate.
+
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://orcid.org/0000-0003-4098-5222
 
