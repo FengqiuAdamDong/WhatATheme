@@ -1,0 +1,15 @@
+- name: Interview with Fraser Cain, Universe Today
+  image: /assets/images/fraser_interview.png
+  link: https://youtu.be/uVwP1j7Nm0k
+  description: I talk about being a scientist, the CHIME collaboration, Fast Radio Bursts, Long Period Transients and Pulsars.
+- name: CHIME J1634+44 Discovery
+  image: /assets/images/space.png
+  link: https://www.space.com/astronomy/newly-discovered-cosmic-unicorn-is-a-spinning-dead-star-that-defies-physics-we-have-a-real-mystery-on-our-hands
+  description: My paper on CHIME/ILT J1634+44 received widespread coverage
+- name: Dicovery of the brightest FRB of all time
+  image: /assets/images/nsf_nrao.png
+  link: https://public.nrao.edu/news/brightest-ever-fast-radio-burst-allows-researchers-to-identify-its-origin/
+  description: We discovered the brightest FRB of all time!
+- name: See my research featured on AAS Nova!
+  image: /assets/images/aas_nova.png
+  link: https://aasnova.org/2025/07/30/monthly-roundup-astronomy-in-the-news/
